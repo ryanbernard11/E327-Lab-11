@@ -1,0 +1,26 @@
+Enter command: Library contents:
+Enter command: Enter command: Enter command: Cannot remove the book.
+Enter command: Enter command: Enter command: Enter command: Enter command: Enter command: Enter command: Enter command: Enter command: Cannot add the book.
+Enter command: Library contents:
+Hobbit
+TheLittlePrince
+DaVinciCode
+TheAlchemist
+Heidi
+BlackBeauty
+LordOfTheRings
+ATaleOfTwoCities
+WarAndPeace
+HarryPotter
+Enter command: Enter command: Enter command: Library contents:
+Hobbit
+TheLittlePrince
+DaVinciCode
+TheAlchemist
+TheGirlWithTheDragonTattoo
+BlackBeauty
+LordOfTheRings
+ATaleOfTwoCities
+WarAndPeace
+HarryPotter
+Enter command: Exiting
